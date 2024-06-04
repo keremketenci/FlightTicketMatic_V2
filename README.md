@@ -2,7 +2,7 @@
 
 # Uçuş Biletmatik Uygulaması_V2
 
-Bu, C# ve Visual Studio kullanılarak geliştirilmiş bir windows form uygulamasıdır. Bu uygulama, kullanıcının bir uçuş için bilet satın almasını sağlar.
+Bu, C# ve Visual Studio kullanılarak geliştirilmiş bir windows form uygulamasıdır. Bu uygulama, kullanıcının bir uçuş için bilet satın almasını ve bir yöneticinin uçuş veya uçak ekleyebilmesini sağlar.
 
 ## Kullanım
 
