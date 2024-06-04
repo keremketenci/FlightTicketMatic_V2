@@ -11,7 +11,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları takip edin:
 1. Projeyi Visual Studio'da açın.
 2. Program.cs dosyasını bulun ve çalıştırın.
 
-Uygulama başladığında, aşağıdaki adımları takip ederek bilet satın alabilirsiniz:
+Uygulama başladığında, aşağıdaki adımları takip ederek işlemlerinizi gerçekleştirebilirsiniz.
 
 ## Kullanıcı Paneli
 1. İlk olarak, kullanıcı olarak kayıt olun veya giriş yapın.
